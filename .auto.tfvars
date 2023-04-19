@@ -10,4 +10,4 @@ private_subnet_3_cidr = "10.0.13.0/24"
 instance_type = "t2.medium"
 instance_ami = "ami-0c6b1d09930fac512"
 keyname = "Monda-application"    # key pair     or pem key ( ssh) 
-DOI_Token = "aweehdbebfhewfvwhefbeebfhewfbhewbhfbewhfbehfbewhfbbhebfhewbjh"
+
